@@ -1,5 +1,6 @@
 export const theme = {
   colors: {
+    lime:'#fdfd04',
     background_list: '#f0f6f7',
     black: '#000',
     white: '#fff',
